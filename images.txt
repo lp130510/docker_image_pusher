@@ -3,3 +3,4 @@ python:3.12
 ubuntu:latest
 docker.n8n.io/n8nio/n8n:latest
 firecrawl:latest
+alisen39/trwebocr:latest

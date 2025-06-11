@@ -1,1 +1,1 @@
-trwebocr:latest
+python:3.6

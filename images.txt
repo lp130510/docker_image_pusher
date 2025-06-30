@@ -1,3 +1,4 @@
 #pytorch/pytorch:2.3.0-cuda12.1-cudnn8-runtime
 #debian:12.7
-paddlecloud/paddlespeech:develop-cpu-latest
+#paddlecloud/paddlespeech:develop-cpu-latest
+paddlecloud/paddlespeech:develop-cpu-fb4d25

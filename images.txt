@@ -2,5 +2,6 @@
 #debian:12.7
 #paddlecloud/paddlespeech:develop-cpu-latest
 #paddlecloud/paddlespeech:develop-cpu-fb4d25
-ghcr.io/open-webui/open-webui:main
-node:18-alpine3.16
+#ghcr.io/open-webui/open-webui:main
+#node:18-alpine3.16
+mongo:4.4

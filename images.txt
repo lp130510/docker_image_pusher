@@ -6,4 +6,16 @@
 #node:18-alpine3.16
 #mongo:4.4
 #portainer/portainer-ce:lts
-portainer/agent:2.27.9
+#portainer/agent:2.27.9
+mysql:8.4.5
+bitnami/redis:8.0
+bitnami/elasticsearch:8.18.0
+minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
+minio/mc:RELEASE.2025-05-21T01-59-54Z-cpuv1
+bitnami/etcd:3.5
+milvusdb/milvus:v2.5.10
+nsqio/nsq:v1.2.1
+opencoze/opencoze:latest
+arigaio/atlas:0.35.0-community-alpine
+alpine/curl:8.12.1
+busybox:latest

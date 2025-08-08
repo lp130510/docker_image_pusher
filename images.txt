@@ -1,3 +1,8 @@
+redis:latest
+
+
+
+
 #pytorch/pytorch:2.3.0-cuda12.1-cudnn8-runtime
 #debian:12.7
 #paddlecloud/paddlespeech:develop-cpu-latest
@@ -20,4 +25,4 @@
 #alpine/curl:8.12.1
 #busybox:latest
 #ghcr.io/m1k1o/neko/firefox:latest
-rockchin/langbot:latest
+#rockchin/langbot:latest

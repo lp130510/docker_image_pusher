@@ -1,4 +1,5 @@
-redis:latest
-mysql:8.0
-redis:6
-wechatpadpro/wechatpadpro:latest
+#redis:latest
+#mysql:8.0
+#redis:6
+#wechatpadpro/wechatpadpro:latest
+kanboard/kanboard:v1.2.45

@@ -3,4 +3,5 @@
 #redis:6
 #wechatpadpro/wechatpadpro:latest
 #kanboard/kanboard:v1.2.45
-unclecode/crawl4ai:0.7.4
+#unclecode/crawl4ai:0.7.4
+saltbo/zpan

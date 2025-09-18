@@ -6,4 +6,5 @@
 #unclecode/crawl4ai:0.7.4
 #saltbo/zpan
 #xavierniu/cloudreve:latest
-onlyoffice/documentserver
+#onlyoffice/documentserver
+podwide/cosyvoice:v2.0.0

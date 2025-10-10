@@ -7,4 +7,5 @@
 #saltbo/zpan
 #xavierniu/cloudreve:latest
 #onlyoffice/documentserver
-podwide/cosyvoice:v2.0.0
+#podwide/cosyvoice:v2.0.0
+rocm/vllm:rocm7.0.0_vllm_0.10.2_20251006

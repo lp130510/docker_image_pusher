@@ -10,4 +10,4 @@
 #podwide/cosyvoice:v2.0.0
 #rocm/vllm:rocm7.0.0_vllm_0.10.2_20251006
 #portainer/agent:2.33.1
-alist666/alist:latest
+xhofe/alist:main

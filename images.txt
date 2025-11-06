@@ -14,4 +14,6 @@
 #binux/pyspider
 #ghcr.io/open-webui/open-webui:main
 #mysql:latest
-flink:1.20.3-scala_2.12-java8
+#flink:1.20.3-scala_2.12-java8
+paddlepaddle/paddleocr:2.6-cpu-latest
+

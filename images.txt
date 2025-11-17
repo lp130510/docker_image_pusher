@@ -15,5 +15,5 @@
 #ghcr.io/open-webui/open-webui:main
 #mysql:latest
 #flink:1.20.3-scala_2.12-java8
-rustdesk/rustdesk-server:latest
-
+#rustdesk/rustdesk-server:latest
+portainer/portainer-ce:latest

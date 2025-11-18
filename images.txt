@@ -17,4 +17,5 @@
 #flink:1.20.3-scala_2.12-java8
 #rustdesk/rustdesk-server:latest
 #portainer/portainer-ce:latest
-nginx:alpine
+#nginx:alpine
+node:22-alpine

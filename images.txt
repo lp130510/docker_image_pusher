@@ -20,3 +20,4 @@
 #nginx:alpine
 #node:22-alpine
 pgvector/pgvector:pg16
+lobehub/lobe-chat-database

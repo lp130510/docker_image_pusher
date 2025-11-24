@@ -19,5 +19,6 @@
 #portainer/portainer-ce:latest
 #nginx:alpine
 #node:22-alpine
-pgvector/pgvector:pg16
-lobehub/lobe-chat-database
+#pgvector/pgvector:pg16
+#lobehub/lobe-chat-database
+lobehub/lobe-chat

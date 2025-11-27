@@ -21,4 +21,5 @@
 #node:22-alpine
 #pgvector/pgvector:pg16
 #lobehub/lobe-chat-database
-lobehub/lobe-chat
+#lobehub/lobe-chat
+chat2db/chat2db:latest

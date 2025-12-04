@@ -22,4 +22,6 @@
 #pgvector/pgvector:pg16
 #lobehub/lobe-chat-database
 #lobehub/lobe-chat
-chat2db/chat2db:latest
+#chat2db/chat2db:latest
+mlikiowa/napcat-docker:latest
+soulter/astrbot:latest

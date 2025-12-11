@@ -23,5 +23,6 @@
 #lobehub/lobe-chat-database
 #lobehub/lobe-chat
 #chat2db/chat2db:latest
-mlikiowa/napcat-docker:latest
-soulter/astrbot:latest
+#mlikiowa/napcat-docker:latest
+#soulter/astrbot:latest
+nvidia/cuda:12.1.0-cudnn8-runtime-ubuntu22.04

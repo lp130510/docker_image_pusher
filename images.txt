@@ -26,4 +26,4 @@
 #mlikiowa/napcat-docker:latest
 #soulter/astrbot:latest
 #nvidia/cuda:12.1.0-cudnn8-runtime-ubuntu22.04
-rocm/pytorch:rocm6.1_ubuntu22.04_py3.10
+rocm/pytorch:6.1.2-ubuntu-22.04-py3.10

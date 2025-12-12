@@ -25,4 +25,5 @@
 #chat2db/chat2db:latest
 #mlikiowa/napcat-docker:latest
 #soulter/astrbot:latest
-nvidia/cuda:12.1.0-cudnn8-runtime-ubuntu22.04
+#nvidia/cuda:12.1.0-cudnn8-runtime-ubuntu22.04
+rocm/pytorch:rocm6.1_ubuntu22.04_py3.10

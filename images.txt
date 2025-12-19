@@ -27,4 +27,7 @@
 #soulter/astrbot:latest
 #nvidia/cuda:12.1.0-cudnn8-runtime-ubuntu22.04
 #ubuntu:22.04
-rocm/pytorch:rocm7.1.1_ubuntu24.04_py3.12_pytorch_release_2.9.1
+#rocm/pytorch:rocm7.1.1_ubuntu24.04_py3.12_pytorch_release_2.9.1
+postgres:17
+redis:7-alpine
+hiett/serverless-redis-http:latest

@@ -31,4 +31,5 @@
 #postgres:17
 #redis:7-alpine
 #hiett/serverless-redis-http:latest
-oven/bun:alpine
+#oven/bun:alpine
+vllm/vllm-openai:latest

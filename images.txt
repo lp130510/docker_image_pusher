@@ -38,4 +38,4 @@
 #owncloud/server:latest
 #mariadb:10.11
 #redis:6
-pytorch:2.4.0-cuda12.4-cudnn9-devel
+pytorch/pytorch:2.4.0-cuda12.4-cudnn9-devel

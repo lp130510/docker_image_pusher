@@ -42,3 +42,6 @@
 #pytorch/pytorch:2.9.1
 nginx:latest
 nginx:1.29.4-alpine
+pytorch/pytorch:2.9.1-cuda13.0-cudnn9-runtime
+pytorch/pytorch:2.9.1-cuda12.8-cudnn9-runtime
+pytorch/pytorch:2.9.1-cuda13.0-cudnn9-devel

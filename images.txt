@@ -1,3 +1,7 @@
+postgres:14.20
+postgres:14.20-trixie
+mysql:8.0-debian
+mysql:8.0.44-debian
 #redis:latest
 #mysql:8.0
 #redis:6
@@ -40,11 +44,11 @@
 #redis:6
 #pytorch/pytorch:2.4.0-cuda12.4-cudnn9-devel
 #pytorch/pytorch:2.9.1
-nginx:latest
-nginx:1.29.4-alpine
-pytorch/pytorch:2.9.1-cuda13.0-cudnn9-runtime
-pytorch/pytorch:2.9.1-cuda12.8-cudnn9-runtime
-pytorch/pytorch:2.9.1-cuda13.0-cudnn9-devel
-nginx:stable-alpine3.23
-nginx:stable-alpine
-nginx:mainline-alpine3.23
+#nginx:latest
+#nginx:1.29.4-alpine
+#pytorch/pytorch:2.9.1-cuda13.0-cudnn9-runtime
+#pytorch/pytorch:2.9.1-cuda12.8-cudnn9-runtime
+#pytorch/pytorch:2.9.1-cuda13.0-cudnn9-devel
+#nginx:stable-alpine3.23
+#nginx:stable-alpine
+#nginx:mainline-alpine3.23

@@ -1,8 +1,8 @@
-vllm/vllm-openai:nightly-x86_64
-postgres:14.20
-postgres:14.20-trixie
-mysql:8.0-debian
-mysql:8.0.44-debian
+#vllm/vllm-openai:nightly-x86_64
+#postgres:14.20
+#postgres:14.20-trixie
+#mysql:8.0-debian
+#mysql:8.0.44-debian
 #redis:latest
 #mysql:8.0
 #redis:6

@@ -1,4 +1,5 @@
 #unclecode/crawl4ai:latest
 #ollama/ollama:latest
 #jumpserver/web:v4.9.0-ce
-vllm/vllm-openai:v0.9.0
+#vllm/vllm-openai:v0.9.0
+ghcr.io/open-webui/open-webui:main

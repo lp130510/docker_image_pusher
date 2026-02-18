@@ -1,9 +1,2 @@
-#unclecode/crawl4ai:latest
-#ollama/ollama:latest
-#jumpserver/web:v4.9.0-ce
-#vllm/vllm-openai:v0.9.0
-#portainer/portainer-ce:latest
-docker.getoutline.com/outlinewiki/outline:latest
-redis
 postgres:18
 steveltn/https-portal

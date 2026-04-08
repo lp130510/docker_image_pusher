@@ -1,1 +1,2 @@
 node:trixie
+node:25.9.0-trixie

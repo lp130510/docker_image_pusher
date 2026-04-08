@@ -1,7 +1,1 @@
-rustfs/rustfs:latest
-lobehub/lobehub
-minio/mc:latest
-redis:7-alpine
-casbin/casdoor:v2.13.0
-searxng/searxng
-alpine
+node:trixie

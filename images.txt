@@ -1,3 +1,1 @@
-node:trixie
-node:25.9.0-trixie
-dhi.io/python:3-debian13-sfw-ent-dev
+python:3-debian13-sfw-ent-dev

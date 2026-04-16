@@ -2,4 +2,5 @@
 #python:3.14.3-trixie
 #ollama/ollama
 #openclaw:latest
-ollama/ollama:0.20.6-rocm
+#ollama/ollama:0.20.6-rocm
+cosincox/easyvoice:latest

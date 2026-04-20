@@ -3,4 +3,5 @@
 #ollama/ollama
 #openclaw:latest
 #ollama/ollama:0.20.6-rocm
-cosincox/easyvoice:latest
+#cosincox/easyvoice:latest
+rocm/pytorch​:latest

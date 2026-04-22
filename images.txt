@@ -9,4 +9,5 @@
 #rocm/onnxruntime:rocm7.2.2_ub22.04_ort1.23_torch2.10.0
 #azureml/onnxruntime
 #rocm/dev-ubuntu-24.04:7.1.1-complete
-dhi.io/pytorch:2.10-cuda13.0-cudnn9
+#dhi.io/pytorch:2.10-cuda13.0-cudnn9
+onnx/onnx-base

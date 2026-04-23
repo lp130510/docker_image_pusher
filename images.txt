@@ -10,4 +10,5 @@
 #azureml/onnxruntime
 #rocm/dev-ubuntu-24.04:7.1.1-complete
 #dhi.io/pytorch:2.10-cuda13.0-cudnn9
-onnx/onnx-base
+#onnx/onnx-base
+rustdesk/rustdesk-server

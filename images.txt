@@ -1,14 +1,1 @@
-#python:3.15.0a7-trixie
-#python:3.14.3-trixie
-#ollama/ollama
-#openclaw:latest
-#ollama/ollama:0.20.6-rocm
-#cosincox/easyvoice:latest
-#rocm/pytorch
-#rocm/pytorch:rocm7.2.2_ubuntu22.04_py3.10_pytorch_release_2.9.1
-#rocm/onnxruntime:rocm7.2.2_ub22.04_ort1.23_torch2.10.0
-#azureml/onnxruntime
-#rocm/dev-ubuntu-24.04:7.1.1-complete
-#dhi.io/pytorch:2.10-cuda13.0-cudnn9
-#onnx/onnx-base
-rustdesk/rustdesk-server
+ginuerzh/gost

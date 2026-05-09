@@ -1,3 +1,4 @@
 #ginuerzh/gost
 #python:3.10.11-slim-buster
-debian:trixie-backports
+#debian:trixie-backports
+portainer/portainer-ce:sts

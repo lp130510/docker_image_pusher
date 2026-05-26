@@ -1,4 +1,5 @@
 #ginuerzh/gost
 #python:3.10.11-slim-buster
 #debian:trixie-backports
-portainer/portainer-ce:sts
+#portainer/portainer-ce:sts
+unclecode/crawl4ai:latest

@@ -4,4 +4,5 @@
 #portainer/portainer-ce:sts
 #unclecode/crawl4ai:latest
 #xkuma/socks5
-ubuntu:jammy-20260509
+#ubuntu:jammy-20260509
+ubuntu:24.04

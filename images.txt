@@ -3,4 +3,5 @@
 #debian:trixie-backports
 #portainer/portainer-ce:sts
 #unclecode/crawl4ai:latest
-xkuma/socks5
+#xkuma/socks5
+ubuntu:jammy-20260509

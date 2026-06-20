@@ -1,1 +1,11 @@
-	mcp/playwright
+langgenius/dify-api:1.10.1
+postgres:15-alpine
+nginx:latest
+langgenius/dify-plugin-daemon:0.4.1-local
+redis:6-alpine
+langgenius/dify-sandbox:0.2.12
+ubuntu/squid:latest
+semitechnologies/weaviate:1.27.0
+langgenius/dify-web:1.10.1
+langgenius/dify-api:1.10.1
+langgenius/dify-api:1.10.1

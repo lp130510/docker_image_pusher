@@ -1,1 +1,1 @@
-benweet/stackedit-base
+docker.io/kociolek/real-esrgan

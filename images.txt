@@ -1,1 +1,1 @@
-docker.io/kociolek/real-esrgan
+1panel/cordys-crm

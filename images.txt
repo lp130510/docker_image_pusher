@@ -1,1 +1,1 @@
-1panel/cordys-crm
+gitea/gitea

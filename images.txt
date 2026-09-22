@@ -1,1 +1,1 @@
-ds4sd/docling:latest
+ghcr.io/docling-project/docling-serve:latest

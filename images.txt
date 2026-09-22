@@ -1,1 +1,2 @@
 ghcr.io/docling-project/docling-serve:latest
+apache/tika
